@@ -1,9 +1,9 @@
 body {
-  background pink;
+  background: pink;
 }
 
 h1 {
-  color: blue;
+  color: Blue;
   fontsize: 3em; 
 }
 
